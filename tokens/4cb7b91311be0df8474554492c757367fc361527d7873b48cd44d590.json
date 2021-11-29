@@ -1,0 +1,9 @@
+{
+    "policyId": "4cb7b91311be0df8474554492c757367fc361527d7873b48cd44d590",
+    "name": "EAGLE Pool Token",
+    "symbol": "EAGLE",    
+    "website": "https://m1crypto.co/ada-pool",
+    "description": "Reward token periodically given to EAGLE pool delegators.",
+    "totalSupply": 5000000000000,
+    "amounts": [2, 10, 50, 100, 500, 1000, 5000, 10000, 50000, 100000, 500000, 1000000]
+}
